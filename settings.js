@@ -62,7 +62,7 @@ LINK_WHITELIST: "youtube.com,github.com",
         CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react  
   
-      CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+      CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "😶‍🌫️,🔥,🫥,🤝,🥶,🤡,👍,🏝️,☀️,🤖,🥷,🍀,💸",
 // chose custom react emojis by yourself 
 
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
@@ -85,7 +85,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
                 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
 
-            ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+            ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 
             AUTO_VOICE: process.env.AUTO_VOICE || "false",
@@ -109,7 +109,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "237657309476",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",

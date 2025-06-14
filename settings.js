@@ -46,7 +46,7 @@ LINK_WHITELIST: "youtube.com,github.com",
       MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
-     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qumhu4.jpg",
+     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://pin.it/7B5GSj6ql.jpg",
 // add custom menu and mention reply image url
 
        ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/xshsmk",
@@ -59,7 +59,7 @@ LINK_WHITELIST: "youtube.com,github.com",
         STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
 // type sticker pack name 
 
-        CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+        CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react  
   
       CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "😍,👌🏼,🍀,👾,🤖,🥷🏽,💸,🔥,🫥,🤝,🥶,🤡,🏝️,☀️",
@@ -71,7 +71,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "+237657309476",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ALFRED",
+OWNER_NAME: process.env.OWNER_NAME || "~♧_ℛøøղεყ_♧~❤‍🔥💎~",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
@@ -109,7 +109,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ALFRED",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "237657309476",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
